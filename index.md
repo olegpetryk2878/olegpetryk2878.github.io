@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -23,7 +22,6 @@
 		Чистий дохід : <input type="number" name="txtres" readonly>
 
 		
-	</form>
 	<script type="text/javascript">
 		
 		function sumValues()
@@ -39,5 +37,3 @@
 		}
 
 	</script>
-</body>
-</html>
